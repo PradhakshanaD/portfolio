@@ -4,9 +4,13 @@ I am a data enthusiast with a passion for solving complex problems through insig
 
 ## Education
 Master of Professional Studies - Data Science
+
 University at Buffalo, Buffalo, NY
+
 May 2024
+
 GPA: 3.852/4.0
+
 Coursework: Statistical Data Mining, Bayesian Networks, Machine Learning, Python, DBMS
 
 Bachelor of Engineering - Computer Science
