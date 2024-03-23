@@ -1,16 +1,18 @@
 
 ## About Me
+
 I am a data enthusiast with a passion for solving complex problems through insightful data analysis and visualization. With a Master of Professional Studies in Data Science from the University at Buffalo, I have acquired a strong foundation in statistical data mining, Bayesian networks, machine learning, and programming languages such as Python and R. My educational background, coupled with hands-on experience as a Student Assistant for the CDA 532 course "Statistical Data Mining 2," has equipped me with the skills and knowledge to tackle diverse data challenges.
 
 ## Education
+
 Master of Professional Studies - Data Science
 University at Buffalo, Buffalo, NY
-Coursework: Statistical Data Mining, Bayesian Networks, Machine Learning, Python, DBMS
 
 Bachelor of Engineering - Computer Science
 Bannari Amman Institute of Technology, Anna University, Tamil Nadu, India
 
 ## Skills & Tools
+
 Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), R, MySQL
 
 Data Manipulation: Exploratory Data Analysis, Data Cleaning & Preprocessing
@@ -26,12 +28,14 @@ Database Management: Knowledgeable in best practices for efficient data handling
 Communication: Strong written and oral communication abilities
 
 ## Certifications
+
 Certified Tableau Desktop Specialist
 
 Google Data Analytics Professional Certificate
 
 
 ## Projects
+
 Database Design and Implementation for Manufacturing Company: Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules.
 
 Pandas Function Simulation Project: Developed a custom Python library simulating Pandas functions.
