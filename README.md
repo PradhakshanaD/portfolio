@@ -31,10 +31,9 @@ Communication: Strong written and oral communication abilities
 
 ## Certifications
 
-Certified Tableau Desktop Specialist
+Certified Tableau Desktop Specialist - 
 
-Google Data Analytics Professional Certificate
-
+Google Data Analytics Professional Certificate - [View Certificate](https://drive.google.com/file/d/1I90IIUkaPLaKDNhDyHb_MIHga1AwG_u5/view?usp=drive_link)
 
 ## Projects
 
