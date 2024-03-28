@@ -43,7 +43,7 @@ Developed a normalized database from messy customer data using Python, optimizin
 
 Database Design and Implementation for Manufacturing Company: 
 
-Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management. ![EER Diagram](https://drive.google.com/file/d/1LsvylYBtY8ebTxbEe6_pEKAPx9N7KHro/view?usp=sharing)
+Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management. ![Sample Image](images/sample_image.png)
 
 Canine Insights: Exploring Dog Breed Characteristics and Clustering Analysis:
 
