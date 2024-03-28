@@ -38,14 +38,18 @@ Google Data Analytics Professional Certificate - [View Certificate](https://driv
 ## Projects
 
 Data Normalization and Analysis Pipeline:
+
 Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management.
 
 Database Design and Implementation for Manufacturing Company: 
+
 Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management.
 
 Canine Insights: Exploring Dog Breed Characteristics and Clustering Analysis:
+
 Capstone project analyzing dog breed characteristics and clustering them into categories using R and Tableau for visualization. Completed as part of Google Data Analytics Capstone, demonstrating proficiency in data cleaning, exploration, analysis and visualization techniques.
 
 Data Visualization:
+
 Leveraged Tableau skills to create interactive dashboards analyzing diverse datasets, including housing sales, COVID-19 impact, and labor statistics, showcasing proficiency in data visualization and analysis.
 
