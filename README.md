@@ -37,10 +37,15 @@ Google Data Analytics Professional Certificate - [View Certificate](https://driv
 
 ## Projects
 
-Database Design and Implementation for Manufacturing Company: Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules.
+Data Normalization and Analysis Pipeline:
+Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management.
 
-Pandas Function Simulation Project: Developed a custom Python library simulating Pandas functions.
+Database Design and Implementation for Manufacturing Company: 
+Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management.
 
-Data Normalization and Analysis Pipeline: Engineered a Python code to normalize and populate a database with raw data, enabling efficient data retrieval and analysis for business insights.
+Canine Insights: Exploring Dog Breed Characteristics and Clustering Analysis:
+Capstone project analyzing dog breed characteristics and clustering them into categories using R and Tableau for visualization. Completed as part of Google Data Analytics Capstone, demonstrating proficiency in data cleaning, exploration, analysis and visualization techniques.
 
-COVID-19 Data Analysis Project: Leveraged a dataset sourced from Kaggle to query and analyze COVID-19 data from the 'Covid Deaths' and 'Covid Vaccinations' tables to derive insights.
+Data Visualization:
+Leveraged Tableau skills to create interactive dashboards analyzing diverse datasets, including housing sales, COVID-19 impact, and labor statistics, showcasing proficiency in data visualization and analysis.
+
