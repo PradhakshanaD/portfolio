@@ -1,7 +1,5 @@
 
-## About Me
-
-I am a data enthusiast with a passion for solving complex problems through insightful data analysis and visualization. With a Master of Professional Studies in Data Science from the University at Buffalo, I have acquired a strong foundation in statistical data mining, Bayesian networks, machine learning, and programming languages such as Python and R. My educational background, coupled with hands-on experience as a Student Assistant for the CDA 532 course "Statistical Data Mining 2," has equipped me with the skills and knowledge to tackle diverse data challenges.
+I am a data enthusiast with a passion for solving complex problems through insightful data analysis and visualization. With a Master's degree in Data Science from the University at Buffalo, I have acquired a strong foundation in statistical data mining, Bayesian networks, machine learning, and programming languages such as Python and R. My educational background, coupled with hands-on experience as a Student Assistant for the CDA 532 course "Statistical Data Mining 2," has equipped me with the skills and knowledge to tackle diverse data challenges.
 
 ## Education
 
