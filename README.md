@@ -37,11 +37,11 @@ Google Data Analytics Professional Certificate - [View Certificate](https://driv
 
 ### Data Normalization and Analysis Pipeline:
 
-Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management. [Click here to view](https://github.com/PradhakshanaD/Python_DB_Normalization)
+Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management. [Click here to View](https://github.com/PradhakshanaD/Python_DB_Normalization)
 
 ### Database Design and Implementation for Manufacturing Company: 
 
-Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management.
+Designed and implemented a relational database system for a manufacturing company, ensuring data integrity and efficiency through comprehensive normalization and adherence to business rules. Utilized Entity-Relationship modeling and SQL queries to optimize database structure and facilitate seamless data management. [Click here to View](https://github.com/PradhakshanaD/DBMS)
 
 
 ![EER](https://github.com/PradhakshanaD/portfolio/assets/124412733/e6800db2-7690-4d05-9fb3-223ff8661ba7)
@@ -49,7 +49,7 @@ Designed and implemented a relational database system for a manufacturing compan
 
 ### Canine Insights: Exploring Dog Breed Characteristics and Clustering Analysis:
 
-Capstone project analyzing dog breed characteristics and clustering them into categories using R and Tableau for visualization. Completed as part of Google Data Analytics Capstone, demonstrating proficiency in data cleaning, exploration, analysis and visualization techniques.
+Capstone project analyzing dog breed characteristics and clustering them into categories using R and Tableau for visualization. Completed as part of Google Data Analytics Capstone, demonstrating proficiency in data cleaning, exploration, analysis and visualization techniques. [Click here to View](https://github.com/PradhakshanaD/Google-Data-Analytics-Capstone-Project)
 
 
 ![Dashboard 2](https://github.com/PradhakshanaD/portfolio/assets/124412733/0d4bcb25-79f7-4859-a5d0-b525ed912084)
@@ -57,7 +57,7 @@ Capstone project analyzing dog breed characteristics and clustering them into ca
 
 ### Data Visualization:
 
-Leveraged Tableau skills to create interactive dashboards analyzing diverse datasets, including housing sales, COVID-19 impact, and labor statistics, showcasing proficiency in data visualization and analysis.
+Leveraged Tableau skills to create interactive dashboards analyzing diverse datasets, including housing sales, COVID-19 impact, and labor statistics, showcasing proficiency in data visualization and analysis.[Click here to View](https://github.com/PradhakshanaD/Tableau_Projects)
 
 
 ![KING COUNTY HOUSE SALES](https://github.com/PradhakshanaD/portfolio/assets/124412733/7b50bec6-6bd7-4d0d-94f4-0ced50b91173)
