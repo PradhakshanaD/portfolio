@@ -37,7 +37,7 @@ Google Data Analytics Professional Certificate - [View Certificate](https://driv
 
 ### Data Normalization and Analysis Pipeline:
 
-Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management.
+Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management. [Click here to view](https://github.com/PradhakshanaD/Python_DB_Normalization)
 
 ### Database Design and Implementation for Manufacturing Company: 
 
