@@ -4,10 +4,10 @@ I am a data enthusiast with a passion for solving complex problems through insig
 ## Education
 
 #### Master of Professional Studies - Data Science
-##### University at Buffalo, Buffalo, NY
+University at Buffalo, Buffalo, NY
 
 #### Bachelor of Engineering - Computer Science
-##### Bannari Amman Institute of Technology, Anna University, Tamil Nadu, India
+Bannari Amman Institute of Technology, Anna University, Tamil Nadu, India
 
 ## Skills & Tools
 
