@@ -9,21 +9,11 @@ University at Buffalo, Buffalo, NY
 ### Bachelor of Engineering - Computer Science
 Bannari Amman Institute of Technology, Anna University, Tamil Nadu, India
 
-## Skills & Tools
+## Skills
 
-Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), R, MySQL
+•	Technical Skills: Python (Pandas, NumPy, Matplotlib, Seaborn), R Programming, SQL querying, Excel (Pivot table, VLOOKUP), EDA, Predictive Modelling, Data Mining, Statistical Analysis, Data Acquisition (Beautiful Soup), Data Visualization (Tableau), Machine Learning, Database Design and Management, Knowledge in Database Management best practices. 
 
-Data Manipulation: Exploratory Data Analysis, Data Cleaning & Preprocessing
-
-Data Visualization: Tableau, Excel
-
-Tools: Visual Studio Code, Jupyter Notebook, Oracle Apex
-
-Statistical Analysis: Bayesian Networks, Machine Learning
-
-Database Management: Knowledgeable in best practices for efficient data handling and storage
-
-Communication: Strong written and oral communication abilities
+•	Soft Skills: Leadership, Time Management, Communication, Problem-Solving, Cross-functional Collaboration, Attention to detail, People skills, Continuous Learning Mindset.
 
 ## Certifications
 
