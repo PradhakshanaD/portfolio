@@ -50,6 +50,7 @@ Leveraged Tableau skills to create interactive dashboards analyzing diverse data
 
 ![KING COUNTY HOUSE SALES](https://github.com/PradhakshanaD/portfolio/assets/124412733/7b50bec6-6bd7-4d0d-94f4-0ced50b91173)
 
-![SALES ANALYSIS](https://github.com/PradhakshanaD/Tableau_Projects/blob/516c305e0130b90ca3d4edea1fcf6b66cb565371/Tableau/Viz_5/Dashboard.png)
+
+![SALES ANALYSIS](https://github.com/PradhakshanaD/Tableau_Projects/blob/main/Tableau/Viz_5/Dashboard.png)
 
 
