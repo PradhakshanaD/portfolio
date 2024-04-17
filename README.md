@@ -1,5 +1,5 @@
 
-I am a data enthusiast with a passion for solving complex problems through insightful data analysis and visualization. With a Master's degree in Data Science from the University at Buffalo, I have acquired a strong foundation in statistical data mining, Bayesian networks, machine learning, and programming languages such as Python and R. My educational background, coupled with hands-on experience as a Student Assistant for the CDA 532 course "Statistical Data Mining 2," has equipped me with the skills and knowledge to tackle diverse data challenges.
+I am a data enthusiast with a passion for solving complex problems through insightful data analysis and visualization. With a Master's degree in Data Science from the University at Buffalo, I offer a robust skill set in data analysis and a keen enthusiasm for leveraging insights to propel business growth. My coursework include statistical data mining, DBMS, machine learning, and programming languages such as Python and R. My educational background, coupled with hands-on experience as a Student Assistant for the CDA 532 course "Statistical Data Mining 2," has equipped me with the skills and knowledge to tackle diverse data challenges.  I excel in distilling complex metrics into visually appealing reports to drive business strategies forward.
 
 ## Education
 
@@ -13,7 +13,7 @@ Bannari Amman Institute of Technology, Anna University, Tamil Nadu, India
 
 •	Technical Skills: Python (Pandas, NumPy, Matplotlib, Seaborn), R Programming, SQL querying, Excel (Pivot table, VLOOKUP), EDA, Predictive Modelling, Data Mining, Statistical Analysis, Data Acquisition (Beautiful Soup), Data Visualization (Tableau), Machine Learning, Database Design and Management, Knowledge in Database Management best practices. 
 
-•	Soft Skills: Leadership, Time Management, Communication, Problem-Solving, Cross-functional Collaboration, Attention to detail, People skills, Continuous Learning Mindset.
+•	Soft Skills: Leadership, Time Management, Strong Communication, Problem-Solving, Cross-functional Collaboration, Attention to detail, People skills, Continuous Learning Mindset.
 
 ## Certifications
 
@@ -49,5 +49,7 @@ Leveraged Tableau skills to create interactive dashboards analyzing diverse data
 
 
 ![KING COUNTY HOUSE SALES](https://github.com/PradhakshanaD/portfolio/assets/124412733/7b50bec6-6bd7-4d0d-94f4-0ced50b91173)
+
+![SALES ANALYSIS](https://github.com/PradhakshanaD/Tableau_Projects/blob/516c305e0130b90ca3d4edea1fcf6b66cb565371/Tableau/Viz_5/Dashboard.png)
 
 
