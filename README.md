@@ -27,6 +27,8 @@ Google Data Analytics Professional Certificate - [View Certificate](https://driv
 
 Implemented a ML model in Python to detect fraudulent credit card transactions, utilizing algorithms like Logistic Regression, KNN, Decision Trees, Random Forest, XGBoost, and SVM, alongside RepeatedKFold and StratifiedKFold cross-validation techniques. Achieved high accuracy scores with Logistic Regression (L2) at 99.92% and XGBoost at 99.96%, leveraged evaluation metrics like accuracy, ROC AUC score, confusion matrix, and classification report.  [Click here to View](https://github.com/PradhakshanaD/CreditCard_Fraud_Detection.git)
 
+![Credit_Results](https://github.com/PradhakshanaD/CreditCard_Fraud_Detection/blob/9bd1580b92757984bc4ca5a795f8974ca0c82eb5/credit_results_page-0001.jpg)
+
 ### Data Normalization and Analysis Pipeline:
 
 Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management. [Click here to View](https://github.com/PradhakshanaD/Python_DB_Normalization)
