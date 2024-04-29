@@ -45,7 +45,7 @@ Designed and implemented a relational database system for a manufacturing compan
 ![EER](https://github.com/PradhakshanaD/portfolio/assets/124412733/e6800db2-7690-4d05-9fb3-223ff8661ba7)
 
 
-### Canine Insights: Exploring Dog Breed Characteristics and Clustering Analysis:
+### Canine Insights:
 
 Capstone project analyzing dog breed characteristics and clustering them into categories using R and Tableau for visualization. Completed as part of Google Data Analytics Capstone, demonstrating proficiency in data cleaning, exploration, analysis and visualization techniques. [Click here to View](https://github.com/PradhakshanaD/Google-Data-Analytics-Capstone-Project)
 
