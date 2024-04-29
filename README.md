@@ -29,6 +29,10 @@ Implemented a ML model in Python to detect fraudulent credit card transactions, 
 
 ![Credit_Results](https://github.com/PradhakshanaD/CreditCard_Fraud_Detection/blob/9bd1580b92757984bc4ca5a795f8974ca0c82eb5/credit_results_page-0001.jpg)
 
+### Twitter Sentiment Analysis - NLP, Pandas, Sklearn
+
+Built a sentiment analysis model using Logistic Regression with TF-IDF vectorization. Trained on 1.6M tweets, achieving 77.8% test accuracy. Incorporated text preprocessing: stemming and stop-word removal. [Click here to View](https://github.com/PradhakshanaD/Twitter_Sentiment_Analysis.git)
+
 ### Data Normalization and Analysis Pipeline:
 
 Developed a normalized database from messy customer data using Python, optimizing code for efficient loading of rows and practicing SQL queries, demonstrating proficiency in database normalization and data handling techniques. Completed as part of a Master's program, showcasing skills in Python, SQL, and database management. [Click here to View](https://github.com/PradhakshanaD/Python_DB_Normalization)
